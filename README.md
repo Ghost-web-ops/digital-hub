@@ -27,7 +27,7 @@ A modern and responsive "link-in-bio" style page built with the latest web techn
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.comGhost-web-ops/digital-hub.git
+    git clone https://github.com/Ghost-web-ops/digital-hub.git
     ```
 2.  Navigate to the project directory:
     ```bash
