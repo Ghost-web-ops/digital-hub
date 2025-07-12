@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Links Page
 
-## Getting Started
+A modern and responsive "link-in-bio" style page built with the latest web technologies. This project serves as a personal hub to showcase my social profiles, portfolio, and other important links in a clean and elegant interface.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-   **Responsive Design**: Looks great on all devices, from mobile phones to desktops.
+-   **Modern Tech Stack**: Built with Next.js, React, TypeScript, and styled with Tailwind CSS.
+-   **Fast and Optimized**: Leverages Next.js features like Image Optimization for a fast user experience.
+-   **Easily Customizable**: Link data is managed in a simple array, making it easy to add, remove, or update links.
+
+## 🚀 Tech Stack
+
+-   [**Next.js**](https://nextjs.org/) - The React Framework for the Web.
+-   [**React**](https://react.dev/) - A JavaScript library for building user interfaces.
+-   [**TypeScript**](https://www.typescriptlang.org/) - Strongly typed programming language that builds on JavaScript.
+-   [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
+
+## 🔧 Getting Started
+
+### Prerequisites
+
+-   Node.js (v20.x or later)
+-   npm or yarn
+
+### Installation
+
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/](https://github.com/)[Ghost-web-ops]/[digital-hub].git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd [your-repo-name]
+    ```
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+4.  Run the development server:
+    ```bash
+    npm run dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🖼️ Preview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Project Screenshot](./public/Screenshot%202025-07-13%20002217.png) 
+*(You can add a screenshot of your project in the `public` folder and link it here)*
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*This project was built as part of my learning journey to master modern web development practices.*
