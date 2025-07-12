@@ -47,7 +47,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## 🖼️ Preview
 
 ![Project Screenshot](./public/Screenshot%202025-07-13%20002217.png) 
-*(You can add a screenshot of your project in the `public` folder and link it here)*
 
 ---
 *This project was built as part of my learning journey to master modern web development practices.*
